@@ -1,31 +1,32 @@
-site: Gesko
-title: Gesko
-greetings: Hello there! 👋
+site: Milanow
+title: Milanow
+greetings: Cheers love, the cavalry's here! 👋
 description: >-
-  just a minimalist, personal blog
+  一样东西，只要能详细、具体地描述，他就能被创造出来。
 lang: en-US
-timezone:  Europe/Rome
-repo: https://github.com/DavideBri/Gesko # site repo [optional]
+timezone:  Asia/Beijing
+repo: https://github.com/milanow/milanow.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 comments-enabled: false # true to enable disqus comments, false to hide them
 
 author:
-  name: gesko
-  bio: just a minimalist, personal blog
+  name: milanow
+  bio: a software engineer, loving sport, game and anything else
   userpicture: 
-  username: # general username
-  github: DavideBri # github username
-  twitter: # twitter username
+  username: milanow # general username
+  github: milanow # github username
+  twitter: milanowth # twitter username
   mastodon: # mastodon profile (ex. mastodon.social/@my_username)
   linkedin: # linkedin profile
-  email: your-email@email.com # email adress
+  threads: milanow # threads name
+  email: wthsylor@email.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://DavideBri.github.io" # Domain Name of host. [username].github.io for github pages
+url: "https://milanow.github.io" # Domain Name of host. [username].github.io for github pages
 baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
