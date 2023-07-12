@@ -8,7 +8,7 @@ title:  "AI x UX - Beyond ChatBox"
 一直对AI的产品形态很好奇。一方面是它带来的惊喜，在最初体验Perplexity.ai时，虽然前一两次搜索我并没有找到答案，但在这几次探索后，我逐渐发现原来是自己问错了问题，就像xy问题一样，AI帮我指出了那个原来我想问的x问题。然而，在传统的搜索引擎中，与此对标的功能「猜你想搜」，大部分时间只能解决错别字的问题，而并不能识别用户的真实意图，也就不能让用户得到想要的答案。另一方面则是对UI产生的悲观态度，如果像ChatGPT一样仅仅用一个对话框能够完成所有的事情，以后人机界面是否只会像Python REPL界面一样，以自然语言代替编程语言，完成所有的交互？
 
 
-答案显然是否定的。最近听的两期Latent Space的podcast回答了我的大部分由此产生的疑问。[Building the AI × UX Scenius - with Linus Lee of@Notion](https://www.latent.space/p/ai-interfaces-and-notion) 关注如何更好的呈现现有的AI能力，请到了Linus Lee - Research Enginer, Notion AI，主要的分享涉及一些Notion AI的产品形态，包括「AI Autofills」「AI Block」以及背后的思考 。From RLHF to RLHB: The Case for Learning from Human Behavior - with Jeffrey Wang and Joe Reeve of Amplitude 则关注AI产品的数据分析工具，请来了[Jefferey Wang与Joe Reeve@Amplitude](https://www.latent.space/p/amplitude)，主要分享如何更精确地收集用户反馈用来做数据分析，或者帮助AI模型更好的迭代。两期着重强调了「用户引导」与「用户行为反馈」。
+答案显然是否定的。最近听的两期Latent Space的podcast回答了我的大部分由此产生的疑问。[Building the AI × UX Scenius - with Linus Lee of@Notion](https://www.latent.space/p/ai-interfaces-and-notion) 关注如何更好的呈现现有的AI能力，请到了Linus Lee - Research Enginer, Notion AI，主要的分享涉及一些Notion AI的产品形态，包括「AI Autofills」「AI Block」以及背后的思考 。[From RLHF to RLHB: The Case for Learning from Human Behavior - with Jeffrey Wang and Joe Reeve of Amplitude](https://www.latent.space/p/amplitude) 则关注AI产品的数据分析工具，请来了Jefferey Wang与Joe Reeve@Amplitude，主要分享如何更精确地收集用户反馈用来做数据分析，或者帮助AI模型更好的迭代。两期着重强调了「用户引导」与「用户行为反馈」。
 
 ---
 **Building the AI × UX Scenius**
