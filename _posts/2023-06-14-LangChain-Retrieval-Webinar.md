@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The spelled-out intro to neural networks and backpropagation: building micrograd"
+title:  "LangChain Retrieval Webinar"
 ---
 
 ## LangChain Retrieval Webinar
