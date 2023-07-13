@@ -590,9 +590,9 @@ $link-color: var(--link-color);
     }
   }
   li {
-    padding: 2em 0;
+    padding: 1em 0;
     @media(max-width: 860px) {
-      padding: 2em 0;
+      padding: 1em 0;
     }
     &::after {
       content: "";
